@@ -13,7 +13,7 @@ Este proyecto analiza la demanda, asistencia y gestión de turnos médicos en ho
 
 ---
 
-## 📈 Visualizaciones
+## Visualizaciones
 
 ### Vista general del sistema de turnos
 📌 KPIs: asistencia, inasistencia, tiempo de espera
